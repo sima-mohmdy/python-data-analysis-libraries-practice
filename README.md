@@ -1,6 +1,6 @@
 # Python Data Analysis Libraries Practice
 
-This repository contains my practice notebooks while learning and applying Python data analysis libraries.
+This repository contains practice notebooks from a Data Analysis and Data Mining course, focusing on practical implementation of Python data analysis tools and techniques.
 
 The notebooks include exercises focused on data manipulation, preprocessing, visualization, and exploratory data analysis using real-world datasets.
 
@@ -27,7 +27,7 @@ The notebooks include exercises focused on data manipulation, preprocessing, vis
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter / Google Colab
+- Jupyter Notebook / Google Colab
 
 ## Dataset Processing Tasks
 
@@ -41,4 +41,4 @@ The exercises include practical tasks such as:
 
 ## Purpose
 
-The purpose of this repository is to document my learning process and hands-on practice with Python data analysis tools as a foundation for machine learning and data mining projects.
+The purpose of this repository is to document my learning process and hands-on practice with Python data analysis libraries as a foundation for further work in machine learning and data mining projects.
